@@ -4,7 +4,7 @@ How to Contact TotalAV Customer Support?
 
 TotalAV is a widely-used antivirus and cybersecurity software offering protection across various devices and platforms. While the application is generally reliable and user-friendly, users may occasionally need assistance with technical issues, billing inquiries, or account-related questions. In these cases, contacting TotalAV customer support is the most effective way to receive professional assistance.
 
-.. image:: support.gif
+.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
